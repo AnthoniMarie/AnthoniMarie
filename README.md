@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌍 I love IT since my childhood and especially the weeeeb ! 😄
+🏫 Currently at EPITECH Paris
+🏠 From France
+🚘 And.. I know that it's off topic but I am a car enthusiast !
+
 <!--
 **AnthoniMarie/AnthoniMarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
