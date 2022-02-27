@@ -22,11 +22,15 @@
 
 <p align="center">- 📫 You can easily reach me at <b>contact@anthoni-marie.fr<b></p>
 
-  <p align="center">- ⚡ Fun fact <b>I know that it's off topic but I am a car enthusiast ! 🚘</b></p>
+<p align="center">- ⚡ Fun fact <b>I know that it's off topic but I am a car enthusiast !</b></p>
   
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonimarie&show_icons=true&locale=en&layout=compact" alt="anthonimarie" /></p>
+<p align="center">- 🚘 Because i have just talked about cars, my favorite car is, obviously, the <b>Porsche 911</b></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonimarie&show_icons=true&locale=en" alt="anthonimarie" /></p>
+  
+  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonimarie&show_icons=true&locale=en" alt="anthonimarie" />  
+</p>
 
 <h3 align="center">Connect with me 🌍:</h3>
 <p align="center">
