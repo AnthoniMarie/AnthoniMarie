@@ -47,6 +47,6 @@
 
 <h3 align="center">Support ❤️:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/anthonimarie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anthonimarie" /></a></p><br><br>
-<p align="center"><img src="https://s.anthoni-marie.fr/m_w/2021/img/logo-black.png" alt="Logo" width="40" height="40"></p>
+<p align="center"><img src="https://anthoni-marie.fr/static/images/anthonimarie.svg" alt="Logo" width="40" height="40"></p>
 
 
