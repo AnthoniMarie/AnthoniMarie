@@ -1,7 +1,7 @@
 [![](https://user-images.githubusercontent.com/20517603/155888702-9f5ce39d-fb44-4fd7-adac-cde2b65b7c8b.gif)](https://anthoni-marie.fr/)
 
 <h1 align="center">Welcome 👋, I'm Anthoni Marie</h1>
-<h3 align="center">🌍 HR Director at Junior conseil Taker. Freelance full-stack web developer. Web lover 😄 and Student at Epitech 🏫. From France 🇫🇷🚀</h3>
+<h3 align="center">🌍 Creator of things, Web lover 😄 and Student at Epitech 🏫. From France 🇫🇷🚀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anthonimarie&label=Number%20of%20visitors&color=0e75b6&style=flat" alt="anthonimarie" /> </p>
 <p align="center"> <a href="https://twitter.com/anthoni_marie" target="blank"><img src="https://img.shields.io/twitter/follow/anthoni_marie?logo=twitter&style=for-the-badge" alt="anthoni_marie" /></a> </p>
